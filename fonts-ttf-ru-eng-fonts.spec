@@ -16,7 +16,7 @@ BuildRequires: freetype-tools
 There are 8 fonts in this package,which include english and russian alphabet.
 
 %prep
-%setup -n ru-eng-fonts
+%setup -q -n ru-eng-fonts
 
 %build
 
