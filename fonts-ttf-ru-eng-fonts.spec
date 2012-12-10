@@ -55,3 +55,11 @@ fi
 %{_datadir}/fonts/TTF/ru-eng/fonts.scale
 %{_sysconfdir}/X11/fontpath.d/ttf-ru-eng:pri=50
 
+
+
+%changelog
+* Fri Jul 22 2011 Sergey Zhemoitel <serg@mandriva.org> 1.0-1mdv2012.0
++ Revision: 691022
+- fix spec
+- imported package fonts-ttf-ru-eng-fonts
+
