@@ -3,7 +3,7 @@
 Summary: Russian Fonts
 Name: fonts-ttf-ru-eng-fonts
 Version: 1.0
-Release: %mkrel 1
+Release: 2
 License: GPL
 Group: System/Fonts/True type
 URL: http://opendesktop.org/content/show.php/ru-eng-fonts?content=122658
