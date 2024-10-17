@@ -6,7 +6,7 @@ Version: 1.0
 Release: 2
 License: GPL
 Group: System/Fonts/True type
-URL: http://opendesktop.org/content/show.php/ru-eng-fonts?content=122658
+URL: https://opendesktop.org/content/show.php/ru-eng-fonts?content=122658
 Source0: %{pkgname}.tar.gz
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
